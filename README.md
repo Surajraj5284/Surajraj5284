@@ -1,2 +1,1 @@
-Hey, I'm suraj raj.
-just, trying to get into coding (very hard).
+Hey, I'm suraj raj, trying to get into coding(very hard).
